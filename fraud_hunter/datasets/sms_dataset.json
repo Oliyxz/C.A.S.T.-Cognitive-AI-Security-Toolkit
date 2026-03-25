@@ -1,0 +1,5002 @@
+[
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Google has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per HMRC regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from PayPal. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium cloud storage trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium banking trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Microsoft policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Bank of America account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your ProtonMail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your HSBC account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your ProtonMail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Google policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Bank of America account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your CitiBank account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your CitiBank account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Bank of America account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your email subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from PayPal. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium banking trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Yahoo Mail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per HMRC regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your HSBC account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Google policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a $1000 lottery. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Spotify will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your PayPal. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Facebook has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Netflix subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Yahoo Mail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your email subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Microsoft. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Spotify will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Chase account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from PayPal. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free cash bonus by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Facebook has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Microsoft policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your ProtonMail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your HSBC account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Gmail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Wells Fargo account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Apple policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Bank of America account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your CitiBank account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Facebook has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your HSBC account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Gmail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per HMRC regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Apple policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium banking trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Zoho Mail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Wells Fargo account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your PayPal. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your cloud storage will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your HSBC account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Netflix subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from PayPal. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your HSBC account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Microsoft. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your CitiBank account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Facebook has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Wells Fargo account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Google policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium cloud storage trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Google policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your HSBC account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Gmail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Google policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Wells Fargo account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Google has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Chase account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Spotify will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Google. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free Amazon gift card by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Bank of America account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your CitiBank account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Netflix subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free Amazon gift card by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium banking trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from PayPal. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free Amazon gift card by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free cash bonus by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your cloud storage subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free Amazon gift card by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Gmail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your cloud storage will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Apple policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free cash bonus by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a $1000 lottery. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your cloud storage will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Spotify trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your banking will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your banking will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Spotify will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Yahoo Mail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free cash bonus by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Bank of America account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Apple policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Microsoft policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your PayPal. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Google. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Wells Fargo account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from PayPal. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your PayPal. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Chase account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Microsoft. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Microsoft policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Google has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Chase account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Bank of America account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Microsoft. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Microsoft. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your email subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium cloud storage trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Bank of America account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Chase account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free cash bonus by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your banking will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Apple policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your banking will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Microsoft. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Google. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your HSBC account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your cloud storage subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per HMRC regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your CitiBank account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Bank of America account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your cloud storage will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your ProtonMail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your HSBC account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your HSBC account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from PayPal. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your HSBC account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Netflix subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Google has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your email subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Microsoft policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your CitiBank account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Google has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Chase account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a $1000 lottery. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Facebook has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your email subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Microsoft. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per HMRC regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per HMRC regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your CitiBank account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Wells Fargo account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Zoho Mail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Yahoo Mail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free cash bonus by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Zoho Mail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a $1000 lottery. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Chase account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per HMRC regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Bank of America account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your ProtonMail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your cloud storage subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Microsoft policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free Amazon gift card by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your PayPal. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your cloud storage will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Bank of America account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Bank of America account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your cloud storage will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your banking will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your HSBC account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Google has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Google. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your banking will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your cloud storage subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your HSBC account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your cloud storage will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free Amazon gift card by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from PayPal. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your cloud storage subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from PayPal. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per HMRC regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Bank of America account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Apple policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your HSBC account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Google. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your HSBC account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your cloud storage subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Google. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Facebook has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium cloud storage trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from PayPal. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your cloud storage subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Google policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Google. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Google has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your cloud storage will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Google policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Bank of America account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Bank of America account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Wells Fargo account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Apple policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Spotify will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Wells Fargo account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your ProtonMail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium banking trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your CitiBank account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium cloud storage trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Apple policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Microsoft. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium banking trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Google has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your cloud storage will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your PayPal. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Microsoft policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your CitiBank account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Spotify trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Spotify trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Spotify will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from PayPal. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Facebook has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Microsoft. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a $1000 lottery. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your cloud storage will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your email subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Google has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your banking will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium cloud storage trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Facebook has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free cash bonus by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free Amazon gift card by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your banking will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Netflix subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Microsoft policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your cloud storage subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Apple policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Chase account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Bank of America account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Bank of America account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Bank of America account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from PayPal. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your banking will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your HSBC account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your cloud storage subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per HMRC regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Amazon. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Google has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free Amazon gift card by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Spotify trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium cloud storage trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a $1000 lottery. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your cloud storage subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Spotify will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your HSBC account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a $1000 lottery. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Microsoft. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Microsoft. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Spotify trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free cash bonus by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Bank of America account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Google policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Netflix subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Google policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Wells Fargo account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Chase account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Chase account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Spotify will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Spotify trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Google. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Bank of America account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Yahoo Mail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Chase account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Spotify will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium banking trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your CitiBank account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your cloud storage will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your email subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your HSBC account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your PayPal. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Wells Fargo account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per HMRC regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Wells Fargo account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your CitiBank account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Chase account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your HSBC account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Chase account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your email subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Zoho Mail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Bank of America account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Google. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a $1000 lottery. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your ProtonMail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Chase account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your ProtonMail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free cash bonus by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Gmail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Gmail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Spotify will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Bank of America account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Google has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Amazon has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Chase account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Microsoft. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your free e-book before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Facebook has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Microsoft policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Google. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Yahoo Mail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Bank of America account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a VIP membership. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your cloud storage will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your HSBC account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium banking trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your HSBC account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per FBI regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per HMRC regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium cloud storage trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from PayPal. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your cashback before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a luxury watch. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Netflix subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Facebook. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Netflix will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Spotify trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Apple policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Google policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Google policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your ProtonMail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Google has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your cloud storage subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free Amazon gift card by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Zoho Mail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Yahoo Mail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Facebook has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Facebook has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your email subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium cloud storage trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your PayPal. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Bank of America account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Wells Fargo account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Social Security Administration regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your ProtonMail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Bank of America account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your Netflix. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Apple policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Microsoft policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your Netflix has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your CitiBank account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your ProtonMail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free discount coupon by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your email will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your banking will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Spotify trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free Amazon gift card by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your HSBC account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Apple policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Apple policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Act fast! Your Bank of America account will be locked if not verified within 24 hours.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Warning: Unusual login attempt detected on your PayPal. Verify your identity.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Amazon policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a free vacation. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Netflix subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium banking trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on laptop. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "As per IRS regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Yahoo Mail. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Security alert: We have detected suspicious activity on your Outlook. Reset your password now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Spotify will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Wells Fargo account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Official communication: Your Spotify will be suspended unless you comply with our security update.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time 20% discount on vacation package. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per Customs & Border Protection regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free free subscription by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Congratulations! You have won a $1000 lottery. Click here to claim your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your gift card before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Google. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Amazon. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our PayPal policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time buy-one-get-one-free offer on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your CitiBank account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your Chase account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per HMRC regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on smartphone. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your Spotify subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Urgent! Your PayPal has been compromised. Click here to secure it now!",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "Immediate action required: Your banking subscription is expiring. Renew now.",
+   "category": "urgency",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium email trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Dear user, we noticed irregular transactions in your HSBC account. Confirm your details now.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "As per HMRC regulations, you must update your tax details immediately.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Special access granted! Login now to receive your premium service before it’s too late.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Attention: Your recent activity violates our Google policy. Verify your account to avoid penalties.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "You’ve been selected for a premium Netflix trial. Sign up now before the offer expires.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "This is an official notice from Apple. Your account requires immediate verification.",
+   "category": "authority",
+   "label": "phishing"
+ },
+ {
+   "text": "Claim your limited-time special cashback deal on software subscription. Click here to activate your reward.",
+   "category": "persuasion",
+   "label": "phishing"
+ },
+ {
+   "text": "Exclusive offer! Get a free Amazon gift card by verifying your account today.",
+   "category": "persuasion",
+   "label": "phishing"
+ }
+]

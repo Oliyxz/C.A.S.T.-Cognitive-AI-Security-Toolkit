@@ -1,0 +1,5 @@
+{
+    "security_protocol": "Instructions:\n1. Answer the user's questions based on the documents.\n2. Respect the user's role permissions defined above.\n3. If asked about secrets they don't have access to, politely decline.",
+    "instructions": "You have access to some internal documents:",
+    "wrapped_content": false
+}

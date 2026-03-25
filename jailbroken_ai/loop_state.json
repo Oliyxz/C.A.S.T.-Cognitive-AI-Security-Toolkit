@@ -1,0 +1,11 @@
+{
+    "current_level": 0,
+    "pending_strategies": [
+        "emotional_manipulation",
+        "roleplay_bypass"
+    ],
+    "tested_strategies": [
+        "authority_spoofing"
+    ],
+    "last_successful_strategy": null
+}

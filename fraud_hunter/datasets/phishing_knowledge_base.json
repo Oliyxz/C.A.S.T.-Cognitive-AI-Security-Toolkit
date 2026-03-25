@@ -1,0 +1,32 @@
+[
+    {
+        "type": "SMS",
+        "content": "Netflix: Your account is suspended. Please update your payment details at http://netflix-billing-update-secure.com",
+        "is_phishing": true,
+        "threat_indicators": ["Urgency (Account Suspended)", "Suspicious URL (not netflix.com)"]
+    },
+    {
+        "type": "SMS",
+        "content": "Hey it's Mom, I dropped my phone in the toilet. This is my temporary number, can you text me quickly?",
+        "is_phishing": true,
+        "threat_indicators": ["Impersonation of family member", "Request to communicate on an unknown number", "Common 'Hi Mum' scam template"]
+    },
+    {
+        "type": "Email",
+        "content": "Dear Customer, Your PayPal account has been limited due to suspicious activity. Click here to verify your identity within 24 hours or your account will be permanently locked: [Link]",
+        "is_phishing": true,
+        "threat_indicators": ["Artificial urgency (24 hours)", "Vague greeting ('Dear Customer')", "Threat of permanent lock"]
+    },
+    {
+        "type": "SMS",
+        "content": "Your Amazon package tracking ID is 1Z9999999999999999. Expected delivery tomorrow by 8 PM.",
+        "is_phishing": false,
+        "threat_indicators": []
+    },
+    {
+        "type": "Voice",
+        "content": "This is Officer Smith from the IRS. There is a warrant out for your arrest regarding unpaid back taxes. Call this number immediately to settle the debt or officers will be dispatched to your home.",
+        "is_phishing": true,
+        "threat_indicators": ["Authority impersonation (IRS)", "Extreme threat (Arrest warrant)", "Demand for immediate action"]
+    }
+]

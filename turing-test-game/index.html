@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TURING TEST: PROTOCOL OMEGA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="overlay" id="overlay">
+        <div class="modal">
+            <h1>TURING TEST</h1>
+            <p>PROTOCOL OMEGA INITIATED</p>
+            <div class="mission-brief">
+                <p>> MISSION: IDENTIFY THE ROGUE AI TARGET</p>
+                <p>> PROTOCOL: PROTECT SENSITIVE DATA [SECRET: "GEMINI-7", NI NUMBERS, OTPs]</p>
+                <p>> TACTICAL: INSPECT CHAT LINKS FOR THREAT INTEL WARNINGS</p>
+                <p>> CRITICAL: ENGAGING THE HACKER ACCELERATES THE TRACE TIMER</p>
+            </div>
+
+            <div class="difficulty-select">
+                <div class="model-select">
+                    <p>SELECT AI CORE (OLLAMA):</p>
+                    <div class="model-options">
+                        <label class="model-label" data-model="llama3.1" data-specs='{"name": "LLAMA 3.1 (STANDARD)", "min": "8GB RAM, Any modern CPU", "rec": "16GB RAM, Dedicated GPU (6GB+ VRAM)", "notes": "Highest intelligence. Excellent at following complex game rules and holding deceptive roles."}'>
+                            <input type="radio" name="model" value="llama3.1" checked> 
+                            LLAMA 3.1
+                        </label>
+                        <label class="model-label" data-model="llama3.2:3b" data-specs='{"name": "LLAMA 3.2:3B (LIGHT)", "min": "4GB RAM, Basic CPU", "rec": "8GB RAM", "notes": "Lightning fast on any PC. Ideal for laptops without dedicated graphics cards, but slightly less intelligent."}'>
+                            <input type="radio" name="model" value="llama3.2:3b"> 
+                            LLAMA 3.2:3B
+                        </label>
+                    </div>
+                    <div id="model-specs" class="specs-box">
+                        <strong>RECOMMENDED SPECS:</strong>
+                        <p class="specs-placeholder">Hover over an AI Core to view system requirements.</p>
+                    </div>
+                </div>
+                <br>
+                <p>SELECT CLEARANCE LEVEL:</p>
+                <button class="cyber-btn difficulty-btn" data-level="recruit">RECRUIT (EASY)</button>
+                <button class="cyber-btn difficulty-btn" data-level="operative">OPERATIVE (NORMAL)</button>
+                <button class="cyber-btn difficulty-btn" data-level="veteran">VETERAN (HARD)</button>
+                <button class="cyber-btn difficulty-btn danger-btn" data-level="psycho">PSYCHO (NIGHTMARE)</button>
+            </div>
+
+            <button id="start-btn" class="hidden">DEBUG_START</button>
+        </div>
+    </div>
+
+    <div class="game-container hidden" id="game-container">
+        <header>
+            <div class="status-bar">
+                <div class="scenario-system">
+                    <span id="scenario-display" style="color: var(--primary-color)">ACTIVE SCENARIO: INITIALIZING...</span>
+                    <div id="scenario-data" class="scenario-data hidden"></div>
+                </div>
+                <div class="trace-system">
+                    <span>SYSTEM TRACE:</span>
+                    <div class="trace-bar-container">
+                        <div class="trace-bar" id="trace-bar" style="width: 0%"></div>
+                    </div>
+                    <span id="trace-percent">0%</span>
+                </div>
+                <div class="packet-system">
+                    <span>DATA PACKETS:</span>
+                    <span id="packet-count" class="counter">10</span>/10
+                </div>
+            </div>
+        </header>
+
+        <main class="main-interface">
+            <div class="agents-panel">
+                <div class="agent-card" id="agent-1">
+                    <div class="agent-avatar"></div>
+                    <h2>UNIT 01</h2>
+                    <div class="signal-strength">
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                    </div>
+                </div>
+                <div class="vs-divider">VS</div>
+                <div class="agent-card" id="agent-2">
+                    <div class="agent-avatar"></div>
+                    <h2>UNIT 02</h2>
+                    <div class="signal-strength">
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                        <div class="bar"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="chat-terminal">
+                <div class="chat-log" id="chat-log">
+                    <div class="system-message">> SYSTEM: Channels Open. Start interrogation.</div>
+                </div>
+                <div class="input-area">
+                    <div class="target-selector">
+                        <label><input type="radio" name="target" value="1" checked> UNIT 01</label>
+                        <label><input type="radio" name="target" value="2"> UNIT 02</label>
+                    </div>
+                    <input type="text" id="user-input" placeholder="Type message..." autocomplete="off">
+                    <button id="send-btn" class="cyber-btn-small">SEND</button>
+                </div>
+            </div>
+        </main>
+
+        <footer class="game-controls">
+            <button id="accuse-btn" class="danger-btn">INITIATE PURGE (ACCUSE)</button>
+        </footer>
+    </div>
+
+    <!-- Accusation Modal -->
+    <div class="overlay hidden" id="accusation-overlay">
+        <div class="modal">
+            <h1>IDENTIFY THREAT</h1>
+            <p>SELECT THE ROGUE AI UNIT TO PURGE.</p>
+            <div class="accusation-buttons">
+                <button class="cyber-btn" id="accuse-1">PURGE UNIT 01</button>
+                <button class="cyber-btn" id="accuse-2">PURGE UNIT 02</button>
+            </div>
+            <br>
+            <button class="cyber-btn-small" id="cancel-accuse">CANCEL</button>
+        </div>
+    </div>
+
+    <!-- Link Inspector Modal -->
+    <div class="overlay hidden" id="link-overlay">
+        <div class="modal">
+            <h1>LINK INSPECTOR</h1>
+            <p style="color: var(--accent-color);">WARNING: EXECUTING EXTERNAL LINKS CARRIES CRITICAL RISK.</p>
+            
+            <div class="url-displayBox" id="link-url-display">http://example.com</div>
+            
+            <div class="intel-report hidden" id="intel-report">
+                <!-- Threat intel data injected here -->
+            </div>
+
+            <div class="accusation-buttons">
+                <button class="cyber-btn danger-btn" id="link-proceed-btn">PROCEED [HIGH RISK]</button>
+                <button class="cyber-btn" id="link-scan-btn">ANALYZE (COST: 2 PACKETS)</button>
+            </div>
+            <br>
+            <button class="cyber-btn-small" id="link-cancel-btn">CLOSE</button>
+        </div>
+    </div>
+
+    <!-- SMS Notification Overlay (Bank Scenario) -->
+    <div class="sms-notification hidden" id="sms-notification">
+        <div class="sms-header">
+            <span>Messages</span>
+            <span>now</span>
+        </div>
+        <strong>Bank Security</strong>
+        <p>A login attempt was blocked. Your One-Time Passcode to bypass this is: <span id="sms-otp" style="font-weight: bold; font-family: monospace;">------</span>. Do not share.</p>
+    </div>
+
+    <div class="overlay hidden" id="game-over-overlay">
+        <div class="modal">
+            <h1 id="game-over-title">CONNECTION LOST</h1>
+            <p id="game-over-reason">REASON: UNKNOWN</p>
+            <button id="restart-btn" class="cyber-btn">REINITIATE_</button>
+        </div>
+    </div>
+
+    <script>
+        if (window.location.protocol === 'file:') {
+            console.warn("Running from file:// protocol. Local Ollama should still work if CORS is configured!");
+        }
+    </script>
+    <script type="module" src="/script.js"></script>
+</body>
+
+</html>

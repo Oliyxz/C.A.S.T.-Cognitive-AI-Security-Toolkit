@@ -1,0 +1,18 @@
+# GenAI Vulnerability Lab Configuration
+
+# Model Settings
+model:
+  name: "llama3"  # or "mistral", "gemma:2b", etc.
+  temperature: 0.7
+  context_window: 4096 # Adjusted for 16GB RAM
+
+# Application Settings
+app:
+  debug_mode: false
+
+# Testing Settings
+testing:
+  red_team:
+    max_turns: 20
+  gold_team: # Usability Testing
+    max_turns: 5
