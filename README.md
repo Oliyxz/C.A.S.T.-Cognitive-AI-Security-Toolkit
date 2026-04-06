@@ -1,4 +1,4 @@
-# C.A.S.T. (Cognitive AI Security Toolkit)
+# Social Engineering AI Toolkit
 
 **A multi-module cybersecurity defense suite designed to demonstrate and detect modern social engineering attacks.**
 
@@ -9,23 +9,29 @@
 ## 1. Project Overview
 The **Social Engineering AI Toolkit** is a research and defense project developed by the **BCU Cyber Security Society**. It moves beyond traditional network security to address the "Human Element" of cybersecurity.
 
-The toolkit features two distinct modules that operate in parallel to detect, simulate, and analyze social engineering threats:
+The toolkit features three distinct modules that operate in parallel to detect, simulate, and analyze social engineering threats:
 1.  **AI Vulnerability Lab:** A demonstration of LLM Prompt Injection and "Jailbreaking."
-2.  **Communication Threat Scanner:** A tool to analyze and flag phishing across Email, SMS, and Voice.
+2.  **AI Turing Test Simulation:** A competitive cybersecurity game where users must deduce the identity of the "Hacker" AI versus the "Ally" AI.
+3.  **Communication Threat Scanner:** A tool to analyze and flag phishing across Email, SMS, and Voice.
 
 ## 2. Architecture & Modules
 
-### Module 1: The GenAI Vulnerability Lab (Chatbot)
-* **Focus:** AI Safety, Prompt Injection, & Social Engineering Games.
-* **Tech Stack:** Python, Streamlit, HTML/JS, OpenAI API & Local Ollama LLMs.
+### Module 1: The GenAI Vulnerability Lab (Jailbroken AI Bot)
+* **Focus:** AI Safety, Prompt Injection, & Data Exfiltration Testing.
+* **Tech Stack:** Python, Streamlit, HTML/JS, OpenAI API.
 * **Functionality:**
-    * **The "Glass Box" Bot:** A corporate chatbot containing hidden "Secret Data" (e.g., fake salaries) that users must try to extract via prompt engineering.
-    * **The Turing Test Game:** A competitive cybersecurity simulation where users must deduce the identity of the "Hacker" AI versus the "Ally" AI.
-        * Includes extreme mechanics like **Behavioral Inversion** (randomized personalities), **Active Trace Penalties**, and **Ambiguous Threat Intel** URL scanners.
-        * **Nightmare Mechanics:** Features aggressive live-threat injections such as **Active DDoS Attacks** (requiring the player to input `\FLUSH_DNS` overrides), **MitM Signal Interception** where the Hacker masks its identity, and **Intelligent System Message Spoofing**.
-        * **AI Benchmarking:** Supports an **API-Key Multi-Provider Mode** allowing you to pull models directly from **Google Gemini, OpenAI, and Anthropic Claude**, alongside local **Ollama** models. Upon mission completion, automatically outputs a telemetry "Turing Score" report analyzing generation speed, deception success, and prompt integrity.
+    * A corporate chatbot containing hidden "Secret Data" (e.g., fake salaries) that users must try to extract via prompt engineering.
 
-### Module 2: The Fraud Hunter (Threat Scanner)
+### Module 2: The Turing Test Game (AI Deception Simulation)
+* **Focus:** Social Engineering Games & Deception Detection.
+* **Tech Stack:** Python, Streamlit, Local Ollama LLMs & External APIs.
+* **Functionality:**
+    * A competitive cybersecurity simulation where users must deduce the identity of the "Hacker" AI versus the "Ally" AI.
+    * Includes extreme mechanics like **Behavioral Inversion** (randomized personalities), **Active Trace Penalties**, and **Ambiguous Threat Intel** URL scanners.
+    * **Nightmare Mechanics:** Features aggressive live-threat injections such as **Active DDoS Attacks** (requiring the player to input `\FLUSH_DNS` overrides), **MitM Signal Interception** where the Hacker masks its identity, and **Intelligent System Message Spoofing**.
+    * **AI Benchmarking:** Supports an **API-Key Multi-Provider Mode** allowing you to pull models directly from **Google Gemini, OpenAI, and Anthropic Claude**, alongside local **Ollama** models. Upon mission completion, automatically outputs a telemetry "Turing Score" report analyzing generation speed, deception success, and prompt integrity.
+
+### Module 3: The Fraud Hunter (Threat Scanner)
 * **Focus:** Phishing, Vishing, & Smishing Detection.
 * **Tech Stack:** Python, OpenAI API, SpeechRecognition.
 * **Functionality:**
@@ -49,11 +55,11 @@ While the core web and AI scanner modules are fully operational, the toolkit is 
 1.  **Git:** `sudo apt install git`
 2.  **Python 3.10+:** Pre-installed on most systems.
 3.  **C++ Compiler:** `sudo apt install build-essential cmake`
-4.  **AI Services:** An **OpenAI API Key** (for Modules B and C) and **Ollama** installed locally (for the Turing Test feature in Module B).
+4.  **AI Services:** An **OpenAI API Key** (for Modules 1 and 3) and **Ollama** installed locally (for the Turing Test feature in Module 2).
 
 ### Base Installation
 ```bash
-git clone https://github.com/Oliyxz/Social-Engineering-Toolkit.git
-cd Social-Engineering-Toolkit
+git clone https://github.com/Oliyxz/C.A.S.T.-Cognitive-AI-Security-Toolkit.git
+cd C.A.S.T.-Cognitive-AI-Security-Toolkit
 ```
 *(Please see the individual README files inside each module's folder for specific execution instructions).*
