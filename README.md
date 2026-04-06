@@ -1,4 +1,4 @@
-# Social Engineering AI Toolkit
+# C.A.S.T. (Cognitive AI Security Toolkit)
 
 **A multi-module cybersecurity defense suite designed to demonstrate and detect modern social engineering attacks.**
 
